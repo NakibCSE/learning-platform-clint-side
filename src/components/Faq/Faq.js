@@ -4,7 +4,7 @@ const Faq = () => {
   return (
     <div className="mt-5">
       <h2 className="text-center text-3xl text-amber-600">
-        All of Our Frequently Ask Question
+        All frequently asked question are available here
       </h2>
       <div className="grid grid-cols-1 w-3/4 gap-2 mt-10 mx-auto">
         {/* The button to open modal */}
