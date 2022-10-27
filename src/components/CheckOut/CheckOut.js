@@ -11,7 +11,7 @@ const CheckOut = () => {
   return (
     <div>
       <h2 className="text-2xl text-amber-600 text-center">
-        Hi {user?.displayName} thanks for Select: {details.title}
+        Hi {user?.displayName} thanks for Selecting: {details.title}
       </h2>
       <div className="hero ">
         <div className="hero-content">
